@@ -2,6 +2,8 @@
 
 An interactive, high-fidelity Bingo card generator and tracker for HoYoverse games. Easily generate custom, randomized 5x5 boards populated with your favorite characters, mark completed tiles, track active winning combinations, and explore comprehensive roster databases.
 
+![](00001.png) 
+
 ## 🌟 Key Features
 
 * **Interactive Bingo Board (5x5)**:
