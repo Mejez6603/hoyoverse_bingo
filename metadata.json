@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Hoyoverse Character Bingo",
+  "description": "An interactive Hoyoverse Character Bingo card generator featuring characters from Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, and Honkai Impact 3rd with game filters, dynamic path and faction systems.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
